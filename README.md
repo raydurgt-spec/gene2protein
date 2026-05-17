@@ -1,1 +1,1 @@
-# gene2protein
+Added gene2protein assignment
